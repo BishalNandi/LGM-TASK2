@@ -1,0 +1,45 @@
+
+
+.all_card_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.foot{
+  align-items: center;
+  text-align-last: center;
+  margin-bottom: 15px;
+  color: #03203C;
+  
+}
+
+.foot1{
+  align-items: center;
+  text-align-last: center;
+  margin-bottom: 15px;
+  color: #E07C24;
+  background-color: #03203C;
+  width: 35%;
+  /* align-items: center; */
+  margin-left: 32%;
+  /* height: 30%; */
+  padding : 10px; 
+  border-radius: 30px;
+
+}
+
+.foot2{
+  align-items: center;
+  text-align-last: center;
+  margin-bottom: 15px;
+  color: #E07C24;
+  background-color: #03203C;
+  width: 50%;
+  /* align-items: center; */
+  margin-left: 25%;
+  /* height: 30%; */
+  padding : 10px; 
+  border-radius: 30px;
+}

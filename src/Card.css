@@ -1,0 +1,26 @@
+.card_container {
+  display: flex;
+  flex-direction: column;
+  background-color:#E21717;
+  padding: 15px;
+  margin: 20px;
+  border-radius: 18px;
+  color: white;
+  box-shadow: -15px 15px 15px rgb(124, 124, 124);
+  align-items: center;
+  height: 260px;
+  width: 320px;
+}
+
+.api{
+    color: #03203C;
+}
+.card_container img {
+  border-radius: 130px;
+  margin-bottom: 20px;
+}
+
+.card_container h4:first-child {
+  margin-bottom: 25px;
+}
+
